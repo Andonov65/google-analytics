@@ -4,11 +4,6 @@ export default {
   googleAnalytics: {
     id: 'G-X96BB0L9GK'
   },
-  publicRuntimeConfig: {
-    googleAnalytics: {
-      id: process.env.GOOGLE_ANALYTICS_ID
-    }
-  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'google-analytics',
